@@ -1,0 +1,14 @@
+.DS_STORE
+
+/dist/
+/bazel-out
+/integration/bazel/bazel-*
+*.log
+node_modules/
+pubspec.lock
+.settings/
+.build-analytics
+/modules/rollup-test/dist/
+.angular/
+.vscode/
+package-lock.json

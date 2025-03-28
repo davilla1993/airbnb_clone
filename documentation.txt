@@ -1,0 +1,6 @@
+ng new airbnbclone-frontend --style scss --standalone
+npm install primeng@18 primeflex
+npm install primeng primeicons --save
+import assets folder from github depot to the project
+copy and paste the content of styles.scss file
+ng add @fortawesome/angular-fontawesome
