@@ -11,4 +11,4 @@ pubspec.lock
 /modules/rollup-test/dist/
 .angular/
 .vscode/
-package-lock.json
+/.idea/
